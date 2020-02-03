@@ -3,4 +3,6 @@ echo "Hello World"
 
 ?>
 test
-edit-for #2
+<? php
+echo "Helloworld"
+echo "Hello china"
